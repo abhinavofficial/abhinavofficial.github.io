@@ -5,11 +5,11 @@ permalink: /about/
 published: true
 ---
 
-Some information about you!
+# Bio
+Work in Progress
 
-### More Information
+Short bio here
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
