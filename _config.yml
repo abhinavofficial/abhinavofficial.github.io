@@ -19,7 +19,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email: apache.abhinav.official@outlook.com
-  facebook:
+  facebook: abhinavroushankumar
   flickr:
   github: abhinavofficial
   instagram:
@@ -56,7 +56,7 @@ baseurl: ""
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
-version: v1.2.0
+version: v4.2.1
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
