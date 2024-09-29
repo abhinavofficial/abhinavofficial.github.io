@@ -19,10 +19,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email: apache.abhinav.official@outlook.com
-  facebook: abhinavroushankumar
-  flickr:
+  # facebook: abhinavroushankumar
+  # flickr:
   github: abhinavofficial
-  instagram:
+  # instagram:
   linkedin: abhinavroushankumar
   # pinterest:
   # rss: # just type anything here for a working RSS icon
